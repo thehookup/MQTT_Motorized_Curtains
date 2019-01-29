@@ -20,14 +20,32 @@ Stepper motor controlled MQTT curtains - Home Assistant Integrated
 ## Parts (Amazon Links)
 
 Stepper Package 	        https://amzn.to/2MpRQPu
+
+
 Pulleys	 	                https://amzn.to/2FLbCDI
+
+
 Curtain Rope		          https://amzn.to/2U7h5Zs
+
+
 Extruder Gear	 	          https://amzn.to/2T4QtrL
+
+
 Bearings		              https://amzn.to/2U4bdQI
+
+
 NodeMCU	                	https://amzn.to/2MkBcka
+
+
 Buck Converter	 	        https://amzn.to/2FEcNFF
+
+
 Power Supply		          https://amzn.to/2MmtFBj
+
+
 M3 x 20mm	       	        Home Depot
+
+
 #10 bolt	       	        Home Depot
 
 
