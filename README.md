@@ -57,6 +57,10 @@ M3 x 20mm	       	        Home Depot
 
 ![alt text](https://github.com/thehookup/MQTT_Motorized_Curtains/blob/master/dip_switches.jpg)
 
+## Motor Hardware Setup
+
+![alt text](https://github.com/thehookup/MQTT_Motorized_Curtains/blob/master/Motor_Setup_Image.jpg)
+
 ## Home Assistant YAML
 
 ```yaml
